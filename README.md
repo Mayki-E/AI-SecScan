@@ -6,7 +6,7 @@ Like this one -> https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/b
 
 # Usage
 ```bash
-free plan is mistral-small
+//free plan is mistral-small
 python3 scanner.py <folder> --file-types <extension> --api-key <api key from mistral ai dashboard> --model <default is mistral-small>
 //or all extensions:
 python3 scanner.py <folder> --all --api-key <api key from mistral ai dashboard> --model <default is mistral-small>
